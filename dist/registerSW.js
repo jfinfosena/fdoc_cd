@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/fdoc_fastapi/sw.js', { scope: '/fdoc_fastapi/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/fdoc_cd/sw.js', { scope: '/fdoc_cd/' })})}
