@@ -13,6 +13,7 @@ date: 2025-10-28
   - Clasificación de columnas por tipo (numéricas, categóricas, fechas, texto, booleanas).
   - Transformaciones aplicadas (solo las permitidas).
   - Resúmenes y conclusiones.
+  - Formula 5 preguntas relevantes sobre problemas reales que podrían abordarse implementando soluciones con este conjunto de datos, e indica si los datos disponibles son suficientes para resolverlos. Por ejemplo: ¿Se puede predecir la deserción escolar utilizando las calificaciones y la asistencia? Sí, si el dataset incluye historial académico y registros de asistencia por estudiante.
 
 ## Alcance y restricciones
 
