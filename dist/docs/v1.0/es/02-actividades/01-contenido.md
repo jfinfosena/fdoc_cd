@@ -1,5 +1,5 @@
 ---
-title: "Actividad: Aplicación Python con entornos virtuales y fundamentos"
+title: "Actividad 1: Aplicación Python con entornos virtuales y fundamentos"
 position: 1
 date: "2025-10-20"
 ---
