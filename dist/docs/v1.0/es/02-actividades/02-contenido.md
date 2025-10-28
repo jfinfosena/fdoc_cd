@@ -7,7 +7,7 @@ date: 2025-10-28
 ## Resumen de la actividad
 
 - Seleccionar un archivo `.csv` desde: 
-[Cargar Archivos CSV en Panda](04-tutoriales\03-tutorial3)
+[Cargar Archivos CSV en Panda](/04-tutoriales/03-tutorial3)
 - Crear un informe detallado del dataset, incluyendo:
   - Descripción general del dataset.
   - Clasificación de columnas por tipo (numéricas, categóricas, fechas, texto, booleanas).
