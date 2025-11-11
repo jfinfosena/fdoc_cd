@@ -29,40 +29,40 @@ df.head()
 
 ## Ejercicios por tema
 
-1) Series — crear y operar
+### 1) Series — crear y operar
 - Crea una Series desde una lista y otra desde un diccionario.
 - Accede por índice/clave, modifica un valor y aplica una operación (p. ej., multiplicar por 2).
 
-2) DataFrame — crear y explorar
+### 2) DataFrame — crear y explorar
 - Crea un DataFrame pequeño desde un diccionario (puedes reutilizar `datos`).
 - Asigna nombres de columnas y verifica el tipo de cada columna.
 
-3) Inspeccionar y explorar
+### 3) Inspeccionar y explorar
 - Muestra las primeras y últimas filas con `head` y `tail`.
 - Obtén `info`, `shape` y `describe`.
 
-4) Acceder a columnas y filas
+### 4) Acceder a columnas y filas
 - Obtén la columna `Nombre` como Series.
 - Obtén la fila con índice 1 usando `loc` y `iloc`.
 - Accede al valor específico (fila 1, columna `Edad`).
 
-5) Operaciones básicas
+### 5) Operaciones básicas
 - Incrementa `Edad` en 5 años.
 - Crea una columna `Ingreso_anual` multiplicando `Ingreso` por 12 (maneja nulos con 0).
 
-6) Filtrar datos
+### 6) Filtrar datos
 - Filtra filas con `Edad > 30`.
 - Filtra filas donde `Ciudad` es `'Madrid'` o `'Lima'`.
 
-7) Manejo de valores faltantes
+### 7) Manejo de valores faltantes
 - Detecta nulos con `isna` y cuenta faltantes por columna.
 - Rellena nulos: `Edad` con 0, `Ciudad` con `'Desconocido'`, `Ingreso` con la mediana.
 
-8) Leer y guardar datos
+### 8) Leer y guardar datos
 - Lee el CSV creado (`actividad_semana5.csv`) y muestra las primeras filas.
 - Guarda un CSV con columnas seleccionadas (`Nombre`, `Edad`, `Ciudad`).
 
-9) Ejercicio integrado
+### 9) Ejercicio integrado
 - Incrementa `Edad` en 5, filtra personas con `Ingreso_anual > 36000`, ordena por `Ingreso_anual` descendente y guarda como `personas_filtradas.csv`.
 
 
