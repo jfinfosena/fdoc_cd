@@ -1,8 +1,19 @@
 ---
-title: "Semana 6"
+title: "Evaluación 1"
 position: 6
-date: 2025-12-16
+date: 2025-11-18
 ---
 
-# Semana 6
+## Enlace de la evaluación 1
 
+```bash
+https://seia-stalone.vercel.app/
+```
+
+Códiogo de la evaluación:
+K2SX17X0
+
+## Api Key Gemini:
+```bash
+https://aistudio.google.com/
+```
