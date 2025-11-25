@@ -1,5 +1,5 @@
 ---
-title: " Guía Básica de Pandas para Python"
+title: "Guía Básica de Pandas para Python"
 position: 5
 date: 2025-11-11
 ---
